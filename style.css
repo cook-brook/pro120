@@ -1,0 +1,46 @@
+body {
+	background-color: blue;
+}
+ol h5
+{
+	background: yellow;
+    padding: 13px;
+    border-radius: 20px;
+}
+span
+{
+	color: orange;
+	font-size: 16px;
+}	
+li img
+{
+	border-radius: 20px;
+}
+.bom
+{
+	background: greenyellow;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18 red;
+}
+b
+{
+	color: rgb(255, 0, 0);
+}
+
+.bob3
+{
+	text-align: center;
+	color: red;
+}
+.result
+{
+	box-shadow: 5px 5px 18px ;
+	letter-spacing: 2px;
+	background: orange;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid rgb(0, 255, 0)
+}
